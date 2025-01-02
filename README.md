@@ -52,7 +52,8 @@
     ```
     This will start the command-line application.
 
-  2. **Follow the prompts**:
+  2. **Follow the prompts**:  
+
     Upon startup, the user is prompted to either create a new vehicle or select an existing vehicle. If the user chooses to create a new vehicle, they will be asked to provide various details about the vehicle, such as make, model, year, color, and other specifications.  
 
     After creating a new vehicle or selecting an existing one, the user will be presented with a list of actions they can perform on the selected vehicle. These actions may include printing details, towing another vehicle (if applicable), and more. The list also includes an option to exit the application.
